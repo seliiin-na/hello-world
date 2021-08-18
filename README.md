@@ -1,5 +1,4 @@
 # hello-world
-Learning log
 
 Hi Humans,
 
